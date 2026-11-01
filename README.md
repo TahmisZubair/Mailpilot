@@ -6,7 +6,6 @@
 
 Mailpilot is a full-stack web application designed to streamline your mass email communication. Upload your contact lists, compose personalized messages, and let Mailpilot handle the efficient delivery and tracking of your emails.
 
-✨ **[Watch the Demo Video](https://placeholder)** ✨
 
 ## Key Features 🎯
 
@@ -119,7 +118,7 @@ Mailpilot uses a professional queue-based architecture for reliable email proces
 1.  **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/SarthakRawat-1/Mailpilot.git
+    git clone https://github.com/TahmisZubair/Mailpilot.git
     cd Mailpilot
     ```
 
