@@ -274,6 +274,4 @@ FRONTEND_URL=http://localhost:3000
 
 This project is licensed under the ISC License. See the [LICENSE](LICENSE) file for details.
 
-## Author ✍️
 
-- **Sarthak Rawat** - [GitHub Profile](https://github.com/SarthakRawat-1)
