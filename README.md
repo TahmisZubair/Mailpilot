@@ -269,8 +269,4 @@ REDIS_PASSWORD= # Leave blank if no password, otherwise your Redis password
 FRONTEND_URL=http://localhost:3000
 ```
 
-## License 📄
-
-This project is licensed under the ISC License. See the [LICENSE](LICENSE) file for details.
-
 
